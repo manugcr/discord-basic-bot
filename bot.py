@@ -3,7 +3,7 @@ import os
 from discord.ext import commands
 
 status = ['Bep bop','.help']
-bot_key = 'NzUzNzQ5MDcxNTMzMDQ3ODE5.X1qthg.8cGJzt9VfkRj8I1Y80iz5-1Dzi8'
+bot_key = ''
 PREFIX = 's!'
 
 client = commands.Bot(command_prefix = PREFIX) # Command prefix example '.ping'
