@@ -6,6 +6,7 @@ A personal discord bot with discord.py library and cogs.
 * clear
 * ping
 * 8ball
+* custom help command
 * misc commands
 #### To do:
 * Implement voice commands
